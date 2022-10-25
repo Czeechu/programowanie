@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.25.0 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="2875" height="3600">
+	<rect x="0" y="0" width="2875" height="3600" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,200 375,261"/>
+		<polygon fill="#404040" stroke="none" points="375,275 388,250 361,250"/>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,3325 375,3386"/>
+		<polygon fill="#404040" stroke="none" points="375,3400 388,3375 361,3375"/>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 275,100 A 50,50 0 0,0 275,200 L 475,200 A 50,50 0 0,0 475,100 Z"/>
+			<text x="375" y="115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 275,3400 A 50,50 0 0,0 275,3500 L 475,3500 A 50,50 0 0,0 475,3400 Z"/>
+			<text x="375" y="3415" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="375" dy="50" unicode-bidi="embed">Koniec</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,450 375,511"/>
+			<polygon fill="#404040" stroke="none" points="375,525 388,500 361,500"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,625 375,686"/>
+			<polygon fill="#404040" stroke="none" points="375,700 388,675 361,675"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,800 375,861"/>
+			<polygon fill="#404040" stroke="none" points="375,875 388,850 361,850"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,3075 375,3211"/>
+			<polygon fill="#404040" stroke="none" points="375,3225 388,3200 361,3200"/>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 100,275 L 100,450 L 650,450 L 650,275 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="100,300 650,300"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="125,275 125,450"/>
+				<text x="387" y="315" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="387" dy="50" unicode-bidi="embed">Integer szukana, licznik,</tspan>
+					<tspan x="387" dy="50" unicode-bidi="embed"> odp</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 125,525 L 125,625 L 625,625 L 625,525 Z"/>
+				<text x="375" y="540" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">szukana = random(20)</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 225,700 L 225,800 L 525,800 L 525,700 Z"/>
+				<text x="375" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">licznik = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="400,900 2025,900 2025,986"/>
+				<polygon fill="#404040" stroke="none" points="2025,1000 2038,975 2011,975"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2025,2750 2025,2950 613,2950"/>
+				<polygon fill="#404040" stroke="none" points="600,2950 624,2963 624,2936"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="375,2825 375,938"/>
+				<polygon fill="#404040" stroke="none" points="375,925 361,949 388,949"/>
+				<text x="275" y="2740" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="275" dy="50" unicode-bidi="embed">Prawda</tspan>
+				</text>
+				<text x="287" y="3090" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="287" dy="50" unicode-bidi="embed">Fa&#322;sz</tspan>
+				</text>
+				<g>
+					<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2025,1150 2025,1211"/>
+					<polygon fill="#404040" stroke="none" points="2025,1225 2038,1200 2011,1200"/>
+					<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2025,1325 2025,1386"/>
+					<polygon fill="#404040" stroke="none" points="2025,1400 2038,1375 2011,1375"/>
+					<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2025,1500 2025,1561"/>
+					<polygon fill="#404040" stroke="none" points="2025,1575 2038,1550 2011,1550"/>
+					<g>
+						<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 1725,1000 L 1650,1150 L 2325,1150 L 2400,1000 Z"/>
+						<text x="2025" y="1015" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="2025" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Wpisz zgadywan&#261;</tspan>
+							<tspan x="2025" dy="50" unicode-bidi="embed"> liczb&#281; (od 0 do 19): &quot;</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#D0E0FF" stroke="#7080A0" stroke-width="3" stroke-dasharray="none" d="M 1875,1225 L 1825,1325 L 2175,1325 L 2225,1225 Z"/>
+						<text x="2025" y="1240" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="2025" dy="50" unicode-bidi="embed">Wej&#347;cie odp</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 1825,1400 L 1825,1500 L 2225,1500 L 2225,1400 Z"/>
+						<text x="2025" y="1415" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="2025" dy="50" unicode-bidi="embed">licznik = licznik+1</tspan>
+						</text>
+					</g>
+					<g>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2225,1700 2425,1700 2425,1861"/>
+						<polygon fill="#404040" stroke="none" points="2425,1875 2438,1850 2411,1850"/>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="2425,2025 2425,2725 2063,2725"/>
+						<polygon fill="#404040" stroke="none" points="2050,2725 2074,2738 2074,2711"/>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1825,1700 1225,1700 1225,1861"/>
+						<polygon fill="#404040" stroke="none" points="1225,1875 1238,1850 1211,1850"/>
+						<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1225,2625 1225,2725 1986,2725"/>
+						<polygon fill="#404040" stroke="none" points="2000,2725 1975,2711 1975,2738"/>
+						<g>
+							<path fill="#FFD0D0" stroke="#A07070" stroke-width="3" stroke-dasharray="none" d="M 2025,1575 L 1800,1700 L 2025,1825 L 2250,1700 Z"/>
+							<text x="2025" y="1665" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2025" dy="50" unicode-bidi="embed">odp &gt; szukana</tspan>
+							</text>
+						</g>
+						<g>
+							<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 2150,1875 L 2075,2025 L 2700,2025 L 2775,1875 Z"/>
+							<text x="2425" y="1890" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="2425" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Za du&#380;a! Pr&#243;buj</tspan>
+								<tspan x="2425" dy="50" unicode-bidi="embed"> dalej.&quot;</tspan>
+							</text>
+						</g>
+						<g>
+							<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1425,2000 1625,2000 1625,2161"/>
+							<polygon fill="#404040" stroke="none" points="1625,2175 1638,2150 1611,2150"/>
+							<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1625,2325 1625,2600 1263,2600"/>
+							<polygon fill="#404040" stroke="none" points="1250,2600 1274,2613 1274,2586"/>
+							<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1025,2000 825,2000 825,2161"/>
+							<polygon fill="#404040" stroke="none" points="825,2175 838,2150 811,2150"/>
+							<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="825,2500 825,2600 1186,2600"/>
+							<polygon fill="#404040" stroke="none" points="1200,2600 1175,2586 1175,2613"/>
+							<g>
+								<path fill="#FFD0D0" stroke="#A07070" stroke-width="3" stroke-dasharray="none" d="M 1225,1875 L 1000,2000 L 1225,2125 L 1450,2000 Z"/>
+								<text x="1225" y="1965" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1225" dy="50" unicode-bidi="embed">odp &lt; szukana</tspan>
+								</text>
+							</g>
+							<g>
+								<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 1350,2175 L 1275,2325 L 1900,2325 L 1975,2175 Z"/>
+								<text x="1625" y="2190" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+									<tspan x="1625" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Za ma&#322;a! Pr&#243;buj</tspan>
+									<tspan x="1625" dy="50" unicode-bidi="embed"> dalej.&quot;</tspan>
+								</text>
+							</g>
+							<g>
+								<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="825,2275 825,2336"/>
+								<polygon fill="#404040" stroke="none" points="825,2350 838,2325 811,2325"/>
+								<g>
+									<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 600,2175 L 550,2275 L 1050,2275 L 1100,2175 Z"/>
+									<text x="825" y="2190" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+										<tspan x="825" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Zgad&#322;e&#347;!&quot;</tspan>
+									</text>
+								</g>
+								<g>
+									<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 550,2350 L 475,2500 L 1100,2500 L 1175,2350 Z"/>
+									<text x="825" y="2365" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+										<tspan x="825" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Liczba pr&#243;b: &quot; &amp;</tspan>
+										<tspan x="825" dy="50" unicode-bidi="embed"> licznik</tspan>
+									</text>
+								</g>
+							</g>
+							<ellipse cx="1225" cy="2600" rx="25" ry="25" fill="#FFD0D0" stroke="#A07070" stroke-width="3"/>
+							<text x="1550" y="1915" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="1550" dy="50" unicode-bidi="embed">Prawda</tspan>
+							</text>
+							<text x="912" y="1915" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+								<tspan x="912" dy="50" unicode-bidi="embed">Fa&#322;sz</tspan>
+							</text>
+						</g>
+						<ellipse cx="2025" cy="2725" rx="25" ry="25" fill="#FFD0D0" stroke="#A07070" stroke-width="3"/>
+						<text x="2350" y="1615" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="2350" dy="50" unicode-bidi="embed">Prawda</tspan>
+						</text>
+						<text x="1712" y="1615" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1712" dy="50" unicode-bidi="embed">Fa&#322;sz</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#FFE0A0" stroke="#A08040" stroke-width="3" stroke-dasharray="none" d="M 375,2825 L 150,2950 L 375,3075 L 600,2950 Z"/>
+					<text x="375" y="2915" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="375" dy="50" unicode-bidi="embed">odp != szukana</tspan>
+					</text>
+				</g>
+				<ellipse cx="375" cy="900" rx="25" ry="25" fill="#FFE0A0" stroke="#A08040" stroke-width="3"/>
+			</g>
+			<g>
+				<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 175,3225 L 125,3325 L 575,3325 L 625,3225 Z"/>
+				<text x="375" y="3240" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="375" dy="50" unicode-bidi="embed">Wyj&#347;cie &quot;Koniec&quot;</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
